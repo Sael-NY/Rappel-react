@@ -1,0 +1,20 @@
+* {
+  text-decoration: none;
+  text-align: none;
+} 
+
+.contact {
+  background-color: rgb(29, 38, 37);
+}
+
+.nameofcategory {
+  color: rgb(223, 163, 58);
+}
+
+.h1meal {
+  text-align: center;
+}
+
+.list-meal {
+  text-align: center;
+}
