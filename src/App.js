@@ -12,9 +12,9 @@ function App() {
     <>
       <Header />
       <ContactForm />
-      <MealsList />
+      {/* <MealsList /> */}
       {/* <RandomMeal /> */}
-      <SearchMeals />
+      {/* <SearchMeals /> */}
       <ListCategories />
     </>
 
